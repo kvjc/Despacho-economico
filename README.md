@@ -8,13 +8,11 @@ El modelo busca aproximarse al principio real del sistema: **satisfacer la deman
 
 ## Objetivo
 
-> Automatizar el proceso interno de despacho económico utilizando:
->
+Automatizar el proceso interno de despacho económico utilizando:
 > - Precios horarios del mercado
 > - Ofertas de generación por planta
 > - Predicción de la demanda horaria
->
-> Con esta información, se simula qué plantas serían despachadas hora a hora, priorizando las de menor costo marginal.
+Con esta información, se simula qué plantas serían despachadas hora a hora, priorizando las de menor costo marginal.
 
 ---
 
